@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What is often considered the secret to a happy marriage?",
+    "options": [
+      "Regular vacations",
+      "Great cooking",
+      "Open communication",
+      "Separate bank accounts"
+    ],
+    "answer": "Open communication"
+  },
+  {
+    "question": "Who usually decides where to eat when going out?",
+    "options": ["Husband", "Wife", "Flip a coin", "Whoever is hungrier"],
+    "answer": "Wife"
+  },
+  {
+    "question": "What’s a common reason couples argue at home?",
+    "options": ["TV remote", "Money", "Leaving lights on", "Dirty dishes"],
+    "answer": "Money"
+  },
+  {
+    "question": "Which chore is often a source of conflict?",
+    "options": [
+      "Doing the laundry",
+      "Cooking dinner",
+      "Taking out the trash",
+      "Vacuuming"
+    ],
+    "answer": "Taking out the trash"
+  },
+  {
+    "question": "What’s a typical husband’s answer when asked, 'Are you listening?'",
+    "options": ["Yes, dear", "What?", "Of course!", "Wait, what did you say?"],
+    "answer": "Yes, dear"
+  },
+  {
+    "question": "What's often the wife's favorite sentence?",
+    "options": [
+      "I told you so",
+      "Let’s go shopping",
+      "You were right",
+      "I need coffee"
+    ],
+    "answer": "You were right"
+  },
+  {
+    "question": "What is a common anniversary gift idea?",
+    "options": ["Perfume", "Watch", "Flowers", "Apology for forgetting"],
+    "answer": "Flowers"
+  },
+  {
+    "question": "What usually happens when the husband 'fixes' something?",
+    "options": [
+      "It gets fixed",
+      "It breaks more",
+      "It gets delayed",
+      "YouTube tutorial time"
+    ],
+    "answer": "YouTube tutorial time"
+  },
+  {
+    "question": "What’s one unwritten rule in a long marriage?",
+    "options": [
+      "Don’t sleep angry",
+      "Always agree with wife",
+      "Share desserts",
+      "Keep secrets"
+    ],
+    "answer": "Don’t sleep angry"
+  },
+  {
+    "question": "What is most important in a successful marriage?",
+    "options": ["Trust", "Romance", "Patience", "Separate bathrooms"],
+    "answer": "Trust"
+  }
+]

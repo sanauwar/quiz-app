@@ -1,8 +1,11 @@
 import React from "react";
+import { useNavigate } from "react-router-dom";
 
 function Home() {
+  const navigate = useNavigate();
+
   function startQuiz() {
-    console.log("Quiz Is Working");
+    navigate("/instructions");
   }
 
   return (
